@@ -1,1 +1,2 @@
 # .-Simple-Sales-Data-Visualization---202401100400162
+This project visualizes and analyzes sales data, focusing on revenue, product demand, and seasonal sales trends. The data is simulated for one year (365 days) and contains information about product sales, units sold, and price per unit. Using Python and popular libraries like pandas, matplotlib, and seaborn, the data is processed and visualized to provide valuable insights
